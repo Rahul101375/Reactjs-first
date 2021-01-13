@@ -1,0 +1,7 @@
+{
+    "services":[{
+        "id":2, 
+        "title":"I will landscape your garden",
+        "logosUrl":"http://localhost:9000/car.jpg"
+    }]
+}
